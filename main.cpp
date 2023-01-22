@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	string str = "ABCDABCDABCD";
-	cout << IsKPeriodic(str, -9)<<"\n";
+	cout << IsKPeriodic(str, 3)<<"\n";
 
 	return 0;
 }
